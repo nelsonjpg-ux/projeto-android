@@ -53,7 +53,7 @@ main a:hover{
 header > h1 {
     color:white;
     font-family: var(--fonte-destaque);
-   margin-bottom: 20px;
+   padding-bottom: 20px;
    font-size: 3em;
    text-shadow: 1px 3px 8px black;
    font-weight: normal;
